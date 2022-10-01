@@ -1,0 +1,21 @@
+filename, label, prediction1, score1, prediction2, score2
+Class0___Compressed_110_105.jpg,Class0,Class0,0.9781,Class1,0.0219
+Class0___Compressed_149_104.jpg,Class0,Class1,0.6096,Class0,0.3904
+Class0___Compressed_26_110.jpg,Class0,Class0,0.7991,Class1,0.2009
+Class0___Compressed_76_106.jpg,Class0,Class0,0.9501,Class1,0.0499
+Class0___Compressed_95_103.jpg,Class0,Class0,0.9395,Class1,0.0605
+Class0___Rotated180Compressed_108_101.jpg,Class0,Class0,0.5839,Class1,0.4161
+Class0___Rotated180Compressed_3_102.jpg,Class0,Class0,0.9155,Class1,0.0845
+Class0___Rotated180Compressed_74_108.jpg,Class0,Class0,0.8547,Class1,0.1453
+Class0___Rotated180Compressed_98_109.jpg,Class0,Class0,0.9046,Class1,0.0954
+Class0___Rotated180Compressed_99_107.jpg,Class0,Class0,0.9761,Class1,0.0239
+Class1___Compressed_153_110.jpg,Class1,Class1,0.6096,Class0,0.3904
+Class1___Compressed_156_104.jpg,Class1,Class1,0.6389,Class0,0.3611
+Class1___Compressed_174_103.jpg,Class1,Class1,0.8567,Class0,0.1433
+Class1___Rotated180Compressed_158_106.jpg,Class1,Class0,0.894,Class1,0.106
+Class1___Rotated180Compressed_164_109.jpg,Class1,Class1,0.9417,Class0,0.0583
+Class1___Rotated180Compressed_165_102.jpg,Class1,Class1,0.946,Class0,0.054
+Class1___Rotated180Compressed_166_105.jpg,Class1,Class1,0.7294,Class0,0.2706
+Class1___Rotated180Compressed_168_101.jpg,Class1,Class0,0.6803,Class1,0.3197
+Class1___Rotated180Compressed_169_108.jpg,Class1,Class1,0.8974,Class0,0.1026
+Class1___Rotated180Compressed_170_107.jpg,Class1,Class1,0.913,Class0,0.087
